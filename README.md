@@ -1,2 +1,3 @@
 # NativeScriptTutorial
-Grocery App using NativeScript
+Grocery App using NativeScript Playground and Angular. 
+https://play.nativescript.org/
