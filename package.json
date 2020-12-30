@@ -13,10 +13,6 @@
         },
         "tns-ios": {
             "version": "6.5.0"
-        },
-        "playground": {
-            "id": "5qjuz9l_6g06wCPAasfrg",
-            "usedTutorial": true
         }
     },
     "dependencies": {
@@ -61,6 +57,11 @@
     "devDependencies": {
         "@angular/compiler-cli": "8.2.14",
         "@ngtools/webpack": "8.3.24",
+        "@types/jasmine": "3.6.2",
+        "karma": "5.2.3",
+        "karma-jasmine": "4.0.1",
+        "karma-nativescript-launcher": "0.4.0",
+        "karma-webpack": "3.0.5",
         "nativescript-dev-webpack": "1.5.1",
         "tns-platform-declarations": "6.5.0",
         "typescript": "3.5.3"
